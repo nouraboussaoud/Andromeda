@@ -2,6 +2,7 @@
 
 Andromeda is a personal memory management application that helps you capture, organize, and reflect on your life's precious moments. Create memories, analyze them with AI, organize them in albums, and lock them in time capsules for future reflection.
 
+🟢 Live Demo: https://andromeda-8kho.onrender.com/
 ## 🌟 Features
 
 ### Currently Implemented
